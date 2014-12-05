@@ -1,0 +1,11 @@
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.exe.config
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.exe
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.pdb
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.csprojResolveAssemblyReference.cache
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.Form1.resources
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.Properties.Resources.resources
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.csproj.GenerateResource.Cache
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.exe
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.pdb
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.exe
+C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.pdb

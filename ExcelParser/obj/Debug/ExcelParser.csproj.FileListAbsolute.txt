@@ -1,0 +1,7 @@
+C:\Software\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Software\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Software\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.ResolveComReference.cache
+C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
+C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
