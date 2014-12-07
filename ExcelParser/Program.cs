@@ -14,15 +14,14 @@ namespace ExcelParser
         static void Main(string[] args)
         {
 
-            string SourceFilePath = @"G:\OpencutSecure\Database\11-25-14 WebD Migration\Bond Migration Data.xlsx";
+            string SourceFilePath = @"G:\11-25-14 WebD Migration\Non-APR_Sites.xlsx";
 
-            using (BondMigrationDataExtractor parser = new BondMigrationDataExtractor(SourceFilePath))
+            using (InactiveSiteExtractor parser = new InactiveSiteExtractor(SourceFilePath))
             {
-                foreach (BondMigrationRow row in parser.BondData)
-                {
-                    Console.WriteLine(row.BondNumber + " - " + row.DEQIdentifier);
-                }
+                //List<SiteRow> sites = parser.Sites;
+                List<OtherSiteRow> otherSites = parser.OtherSites;
             }
+
 
             Console.WriteLine("Complete");
             Console.ReadLine();

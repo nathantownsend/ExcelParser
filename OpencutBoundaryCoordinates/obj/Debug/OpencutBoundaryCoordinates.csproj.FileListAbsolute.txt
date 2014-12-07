@@ -9,3 +9,14 @@ C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoor
 C:\Software\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.pdb
 C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.exe
 C:\Software\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.pdb
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.exe.config
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.exe
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.pdb
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.exe
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\OpencutBoundaryCoordinates.pdb
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.exe
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\bin\Debug\ExcelParser.pdb
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.Form1.resources
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.Properties.Resources.resources
+C:\Users\Nathan\Documents\GitHub\ExcelParser\OpencutBoundaryCoordinates\obj\Debug\OpencutBoundaryCoordinates.csproj.GenerateResource.Cache

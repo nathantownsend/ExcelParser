@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="BaseParser.cs" />
     <Compile Include="Opencut\BondMigrationData.cs" />
+    <Compile Include="Opencut\InactiveSites.cs" />
     <Compile Include="Opencut\OpencutParser.cs" />
     <Compile Include="Opencut\GeoCoordinate.cs" />
     <Compile Include="Program.cs" />

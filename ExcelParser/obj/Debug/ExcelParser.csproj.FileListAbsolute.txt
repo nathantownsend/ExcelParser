@@ -5,3 +5,9 @@ C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.ResolveComRefer
 C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
 C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
 C:\Software\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.ResolveComReference.cache
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Users\Nathan\Documents\GitHub\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
